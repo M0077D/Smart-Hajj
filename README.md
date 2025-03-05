@@ -1,16 +1,6 @@
-# hajj_app
+# Smart hajj app
 
-A new Flutter project.
+ Smart Hajj App is an intelligent and user-friendly companion designed to assist pilgrims in performing their Hajj and 
+Umrah rituals with ease and confidence. By leveraging trusted Islamic references, advanced AI technology, and 
+location-based services, the app ensures a smooth and well-guided spiritual journey.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
